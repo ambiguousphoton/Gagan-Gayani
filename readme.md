@@ -20,6 +20,10 @@ Implement the main simulation loop:
 
 Initialize pygame and set up the screen.
 Create instances of the Planet class for each planet.
+<img src="planet.PNG">
+<img src="plant.PNG">
+<img src="plnt.PNG">
+
 Inside the main loop, calculate the gravitational forces acting on each planet from the other planets and update their positions and velocities accordingly.
 Draw the planets on the screen at their updated positions.
 Implement accurate physics:
