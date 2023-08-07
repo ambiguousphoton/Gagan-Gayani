@@ -20,9 +20,6 @@ Implement the main simulation loop:
 
 Initialize pygame and set up the screen.
 Create instances of the Planet class for each planet.
-<img src="planet.PNG">
-<img src="plant.PNG">
-<img src="plnt.PNG">
 
 Inside the main loop, calculate the gravitational forces acting on each planet from the other planets and update their positions and velocities accordingly.
 Draw the planets on the screen at their updated positions.
@@ -30,4 +27,14 @@ Implement accurate physics:
 
 Use Newton's law of universal gravitation to calculate the force between each pair of planets.
 Use numerical integration methods like Euler's method or Verlet integration to update the positions and velocities of the planets.
-<img>
+# perfect value for AU distance scale multiplication is 1.094 
+# as taking same disa tnce as of the AU could not allow vissible elliptical axis 
+<img src="planet.PNG">
+USING PYTHAGOREAN THEOREM ----- for calculating distance betweem bodies-------
+gives arc tangent of y/x // both's signs are considered
+<img src="plant.PNG">
+#--------------- velocity in m/s -----------------
+# ...........(-,+) decide direction...............
+# made px(pixel scale) scale of absrtact visual reperesentation inversely proprtional to AU' s scale
+<img src="plnt.PNG">
+
