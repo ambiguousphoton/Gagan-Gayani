@@ -1,6 +1,12 @@
 
 # GAGAN GYANI
 
+THIS MODULE HAS 3 PHASES:
+1. SOLAR SYSTEM SIMULATOR    ---> DOWNLOAD THIS
+2. HABITABLE ZONE CALCULATOR  
+3. MACHINE LEARNING MODULE TO FIND EXOPLANETS 
+
+
 <img src="gagangyani.PNG">
 Creating a simulation of the first four planets in the solar system (Mercury, Venus, Earth, and Mars) with accurate physics using pygame can be an exciting project! 🌌 Here's an outline of the steps to build such a simulation:
 
