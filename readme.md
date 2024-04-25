@@ -2,7 +2,7 @@
 # GAGAN GYANI
 
 THIS MODULE HAS 3 PHASES:
-1. SOLAR SYSTEM SIMULATOR    ---> DOWNLOAD : <a href= "https://github.com/ambiguousphoton/Gagan-Gayani/blob/main/gagan_gyani.py">main program</a>
+1. SOLAR SYSTEM SIMULATOR    ---> DOWNLOAD : <a href= "https://github.com/ambiguousphoton/Gagan-Gayani/blob/main/gagan_gyani.py">SIMULATION</a> 
 2. HABITABLE ZONE CALCULATOR  
 3. MACHINE LEARNING MODULE TO FIND EXOPLANETS 
 
