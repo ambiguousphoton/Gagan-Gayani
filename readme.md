@@ -43,7 +43,7 @@ With these steps and a dash of creativity, you'll be well on your way to creatin
 <img src="planet.PNG">
 USING PYTHAGOREAN THEOREM ----- for calculating distance betweem bodies-------
 gives arc tangent of y/x // both's signs are considered
-<img src="plant.PNG">
+<img src="plant.PNG" style="text-align: center;">
 #--------------- velocity in m/s -----------------
 # ...........(-,+) decide direction...............
 # made px(pixel scale) scale of absrtact visual reperesentation inversely proprtional to AU' s scale
